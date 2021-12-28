@@ -1,6 +1,5 @@
 This projects only contain linked lists. However, these programs are larger than the Java as I go into more detail within the functionality. I also added in several recursive functions to manipulate the elements in the linked list and also to present my understanding of recursive functions.
-This project was especially fun because of the pointers! I created 2 versions, the first is with raw pointers.The second version was re-coded to change all the raw pointers into smart pointers. This can be found as another repository. 
-
+This project was especially fun because of the pointers! I created 2 versions, the first is with raw pointers (can be found in another repository).The second version is this version.
 
 
 
